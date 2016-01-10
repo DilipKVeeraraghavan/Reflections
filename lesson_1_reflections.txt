@@ -1,0 +1,7 @@
+It allows easy the programmer the access to correct a new bug thats introduced while changing another.It basically keeps records of all the changes ever done which can as useful as a diary entry.
+Because diff clearly states those lines where the changes were made and hence would save time for the programmer from inspecting the entire code.
+Absent minded ness could lead to great blunders. As well as technical failure of the system might lead to deletion of unsaved files which could cost a lot of unneccesary time.
+Saving it as a whole chunk would reduce time swapping between files of the same commit.
+Git log is useful for viewing all the commits made one after the other in a sequential order whereas git diff is useful for finding the difference between two commits.
+As long as we different commits stored we can always move back to an older save if something goes wrong in the project.It's like exploring a forest with a seccure base camp setup, you can always return back to the safe place.
+Carefree modifications can be done.
