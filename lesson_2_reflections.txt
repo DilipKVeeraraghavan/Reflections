@@ -1,0 +1,2 @@
+A git repository is created in the already existing folder and we need to do it to track the files present in the folder
+It is the intermediate state just like the buffer it provides the flexibility to add just the required files to a commit and remove them back if neccessary.
