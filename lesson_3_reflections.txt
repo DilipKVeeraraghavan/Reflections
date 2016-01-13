@@ -1,2 +1,3 @@
 We would want to to keep track of the files with the remote repository.
 Again the exact same reason we dont want the changes in the git hub repo on our local machine if it's not bug free hence its not always a good idea to be in sync with the online repo.
+They are indeed very different forks are used to copy repository from one github user to another whereas clones are done to copy from github to personal machine. Branch is the one that is copied.
