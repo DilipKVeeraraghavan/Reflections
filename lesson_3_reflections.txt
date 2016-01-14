@@ -4,3 +4,4 @@ They are indeed very different forks are used to copy repository from one github
 One good reason would be to to keep track how ahead we are from the last sync.
 Ok now life seems difficult without git.
 The benefit of a change branch is that we could delete it when it doesnt work out and just merge when optimal, it's a better practice than experimenting with the master branch.
+This is the real change branch.
